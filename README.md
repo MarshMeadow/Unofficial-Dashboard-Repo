@@ -98,7 +98,7 @@ If the application is no longer available on Google Play, archived versions may 
 * [APKCombo](https://apkcombo.com/search/com.samabox.dashboard)
 * [APKPure](https://apkpure.net/search?q=com.samabox.dashboard)
 * [AppBrain](https://www.appbrain.com/search?q=com.samabox.dashboard)
-* [Softonic](https://dashboard-actions-recents.en.softonic.com/android)
+* [Softonic](https://dashboard-actions-recents.en.softonic.com/android) - Personally Recommended
 
 ---
 
