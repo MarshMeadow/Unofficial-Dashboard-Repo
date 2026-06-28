@@ -4,80 +4,128 @@
 
 > **Disclaimer**
 >
-> This repository is **not affiliated with, endorsed by, or maintained by Samabox Labs**. It exists solely for educational, archival, and preservation purposes.
+> This repository is **not affiliated with, endorsed by, or maintained by Samabox Labs**. It exists solely for educational, archival, documentation, and preservation purposes.
 
 > [!IMPORTANT]
 >
 > ## 📢 Project Status
 >
-> Dashboard by **Samabox Labs** appears to be **discontinued or no longer actively maintained**. The application is no longer available on the Google Play Store, and no public updates or announcements from the developer have been found.
+> Dashboard by **Samabox Labs** appears to be **discontinued or no longer actively maintained**.
 >
-> This repository exists to help preserve historical information, documentation, and links to legitimate archive resources for those interested in the application.
+> The application is no longer available on the Google Play Store, and no public announcements explaining its removal have been found.
+>
+> This repository exists to preserve historical information, documentation, metadata, and links to legitimate archive resources for users interested in the application.
 >
 > **Please note:** The exact reason for the app's removal from Google Play is **unknown**. This repository does **not** speculate on why it was removed and makes no claims beyond publicly available information.
-
 
 ---
 
 ## 📱 App Information
 
-| Property                 | Value                   |
-| :----------------------- | :---------------------- |
-| **App Name**             | Dashboard               |
-| **Developer**            | Samabox Labs            |
-| **Platform**             | Android TV              |
-| **Category**             | Launcher / Tools        |
-| **License**              | Free                    |
-| **Latest Known Version** | 1.0.133t                |
-| **Last Updated**         | March 5, 2024           |
-| **Package Name**         | `com.samabox.dashboard` |
+| Property                 | Value                           |
+| :----------------------- | :------------------------------ |
+| **App Name**             | Dashboard                       |
+| **Developer**            | Samabox Labs                    |
+| **Platform**             | Android TV                      |
+| **Category**             | Launcher / Productivity / Tools |
+| **License**              | Free                            |
+| **Latest Known Version** | 1.0.133t                        |
+| **Last Known Update**    | March 5, 2024                   |
+| **Package Name**         | `com.samabox.dashboard`         |
+
+---
+
+## 📖 App History
+
+Dashboard was an Android TV launcher developed by **Samabox Labs**. Rather than replacing the Android TV experience with a heavily customized interface, Dashboard focused on providing fast access to apps, system features, and multitasking tools.
+
+Some of its notable features included:
+
+* Quick access to installed applications
+* Recent apps overview
+* Access to hidden or disabled apps
+* Android TV system shortcuts
+* Settings shortcuts
+* Lightweight interface
+* Fast navigation compared to many stock launchers
+
+The application became known within Android TV enthusiast communities because it simplified navigation and made accessing applications much faster than many default TV launchers.
+
+Its final publicly known release was **Version 1.0.133t**, published on **March 5, 2024**.
+
+At some point afterward, Dashboard disappeared from the Google Play Store. As of this repository's creation, there has been no publicly available statement from Samabox Labs explaining the app's removal or whether development has ended.
+
+This repository serves as a historical archive to preserve information about the application for future reference.
 
 ---
 
 ## ✨ About
 
-Dashboard is an Android TV launcher developed by **Samabox Labs** that provides quick access to installed applications, recent apps, system shortcuts, and other Android TV features.
+This repository preserves publicly available information relating to Dashboard, including:
 
-This repository preserves documentation, historical information, and useful resources for the application.
+* Documentation
+* Application metadata
+* Version information
+* Archive resources
+* Historical references
+* Community resources
+
+This repository **does not distribute APK files**.
 
 ---
 
-# 🔗 Official Resources
+## 🔗 Official Resources
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.samabox.dashboard)
 * [Samabox Labs on APKPure](https://apkpure.net/developer/Samabox%20Labs)
 
 ---
 
-# 📦 APK Archives
+## 📦 APK Archives
 
-If the app is unavailable on Google Play, you may find archived versions on:
+If the application is no longer available on Google Play, archived versions may still exist on:
 
-* [APKCombo](https://apkcombo.com/dashboard-actions-recents/com.samabox.dashboard/)
-* [APKPure](https://apkpure.net/dashboard-actions-recents/com.samabox.dashboard)
-* [AppBrain](https://www.appbrain.com/app/dashboard-actions-recents/com.samabox.dashboard)
+* [APKCombo](https://apkcombo.com/search/com.samabox.dashboard)
+* [APKPure](https://apkpure.net/search?q=com.samabox.dashboard)
+* [AppBrain](https://www.appbrain.com/search?q=com.samabox.dashboard)
 * [Softonic](https://dashboard-actions-recents.en.softonic.com/android)
 
 ---
 
-# 🌐 Additional Archive Sources
+## 🌐 Additional Archive Sources
 
-If the above websites no longer have the app, check:
+> 💡 **Can't find the app?** Click the section below to view additional archive websites and search tools.
 
-* [Internet Archive (Wayback Machine)](https://web.archive.org/)
-* [Archive.org Software Collection](https://archive.org/details/software)
-* [APKMirror](https://www.apkmirror.com/)
-* [Uptodown](https://www.uptodown.com/)
-* [Aptoide](https://en.aptoide.com/)
-* [APKMonk](https://www.apkmonk.com/)
-* [APKFollow](https://apkfollow.com/)
-* [APKFab](https://apkfab.com/)
+<details>
+<summary><strong>📂 Click to view additional archive sources</strong></summary>
+
+<br>
+
+If the websites above no longer have the application, try searching these resources:
+
+* [Internet Archive (Wayback Machine)](https://web.archive.org/web/*/https://play.google.com/store/apps/details?id=com.samabox.dashboard)
+* [Archive.org Software Collection](https://archive.org/search?query=com.samabox.dashboard)
+* [APKMirror Search](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=com.samabox.dashboard)
+* [APKCombo Search](https://apkcombo.com/search/com.samabox.dashboard)
+* [APKPure Search](https://apkpure.net/search?q=com.samabox.dashboard)
+* [AppBrain Search](https://www.appbrain.com/search?q=com.samabox.dashboard)
+* [APKMonk Search](https://www.apkmonk.com/?s=com.samabox.dashboard)
+* [APKFollow Search](https://apkfollow.com/?s=com.samabox.dashboard)
+* [APKFab Search](https://apkfab.com/search?q=com.samabox.dashboard)
+* [Uptodown Search](https://en.uptodown.com/android/search/com.samabox.dashboard)
+* [Aptoide Search](https://en.aptoide.com/search?query=com.samabox.dashboard)
+* [Google Search](https://www.google.com/search?q=com.samabox.dashboard)
+* [GitHub Search](https://github.com/search?q=com.samabox.dashboard&type=repositories)
+* [Reddit Search](https://www.reddit.com/search/?q=com.samabox.dashboard)
+* [XDA Developers Search](https://xdaforums.com/search/?q=com.samabox.dashboard)
+
+</details>
 
 ---
 
 ## 🔍 Search Tips
 
-If the application is difficult to locate, try searching for:
+If the application is difficult to locate, try searching:
 
 ```text
 com.samabox.dashboard
@@ -89,18 +137,17 @@ or
 Dashboard Actions Recents Samabox Labs
 ```
 
-You may also have success searching on:
+or
 
-* GitHub
-* Reddit
-* XDA Developers
-* Android TV forums
+```text
+Dashboard Android TV Launcher
+```
+
+Searching by the package name usually provides the most accurate results.
 
 ---
 
 ## ⭐ Similar Apps
-
-Looking for an alternative? Here are some excellent Android TV launchers:
 
 | Launcher            | Link                                                                      |
 | :------------------ | :------------------------------------------------------------------------ |
@@ -109,20 +156,40 @@ Looking for an alternative? Here are some excellent Android TV launchers:
 | Dispatch Launcher   | [GitHub](https://github.com/DispatchLauncher/Dispatch)                    |
 | ATV Launcher        | [Google Play](https://play.google.com/store/search?q=ATV%20Launcher)      |
 | Sideload Launcher   | [Google Play](https://play.google.com/store/search?q=Sideload%20Launcher) |
-| Wolf Launcher       | [Guide](https://troypoint.com/wolf-launcher/)                             |
+| Wolf Launcher       | [Installation Guide](https://troypoint.com/wolf-launcher/)                |
+
+---
+
+## 🗃️ Preservation Notes
+
+Applications may disappear from app stores for many reasons, including:
+
+* Development ending
+* Rebranding
+* Store policy changes
+* Licensing changes
+* Distribution changes
+* Developer retirement
+
+This repository intentionally **does not speculate** on which reason applies to Dashboard.
+
+Instead, its purpose is simply to preserve publicly available historical information for future reference.
 
 ---
 
 ## ⚠️ Notice
 
-* This repository does **not** distribute APK files.
+* This repository **does not distribute APK files.**
 * No ownership of the application is claimed.
 * All trademarks, logos, and copyrights belong to their respective owners.
-* If you are the original developer and would like content removed, please open an issue or contact the repository owner.
+* Dashboard and all associated assets remain the intellectual property of **Samabox Labs**.
+* If you are the original developer and would like information corrected or removed, please open an issue or contact the repository owner.
 
 ---
 
 ## ❤️ Credits
+
+Special thanks to:
 
 * Samabox Labs
 * Android TV Community
@@ -131,11 +198,13 @@ Looking for an alternative? Here are some excellent Android TV launchers:
 * AppBrain
 * Softonic
 * Internet Archive
+* Archive.org
+* Android TV enthusiasts who helped preserve information about the application
 
 ---
 
 ## 📄 License
 
-This repository contains community-created documentation only unless otherwise noted.
+Unless otherwise noted, this repository contains **community-created documentation only**.
 
-The **Dashboard** application and all associated assets remain the property of **Samabox Labs**.
+The **Dashboard** application, its branding, assets, icons, and associated intellectual property remain the property of **Samabox Labs**.
