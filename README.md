@@ -6,6 +6,17 @@
 >
 > This repository is **not affiliated with, endorsed by, or maintained by Samabox Labs**. It exists solely for educational, archival, and preservation purposes.
 
+> [!IMPORTANT]
+>
+> ## 📢 Project Status
+>
+> Dashboard by **Samabox Labs** appears to be **discontinued or no longer actively maintained**. The application is no longer available on the Google Play Store, and no public updates or announcements from the developer have been found.
+>
+> This repository exists to help preserve historical information, documentation, and links to legitimate archive resources for those interested in the application.
+>
+> **Please note:** The exact reason for the app's removal from Google Play is **unknown**. This repository does **not** speculate on why it was removed and makes no claims beyond publicly available information.
+
+
 ---
 
 ## 📱 App Information
