@@ -61,6 +61,12 @@ At some point afterward, Dashboard disappeared from the Google Play Store. As of
 
 This repository serves as a historical archive to preserve information about the application for future reference.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/DAEn7DEqpgRgCiwKQnYXDWABht7ObKxKDRoa1CsenY-z1hS1i-OZ8K7KUSGX2PNYTQ=w1024-h768-rw" alt="Dashboard Screenshot" width="700">
+</p>
+
 ---
 
 ## ✨ About
