@@ -86,8 +86,12 @@ This repository **does not distribute APK files**.
 
 ## 🔗 Official Resources
 
+* [OFFICAL WEBSITE](https://samabox.com/)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.samabox.dashboard)
 * [Samabox Labs on APKPure](https://apkpure.net/developer/Samabox%20Labs)
+* Contact: contact@samabox.com
+* [Twitter](https://x.com/SamaboxLabs)
+* [Privacy Policy](https://samabox.com/privacy/)
 
 ---
 
