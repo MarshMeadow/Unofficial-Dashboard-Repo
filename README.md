@@ -1,7 +1,7 @@
 # 📺 Dashboard (Unofficial Archive)
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/DAEn7DEqpgRgCiwKQnYXDWABht7ObKxKDRoa1CsenY-z1hS1i-OZ8K7KUSGX2PNYTQ=w256-h256-rw" alt="Dashboard Logo" width="110">
+  <img src="https://image.winudf.com/v2/image1/Y29tLnNhbWFib3guZGFzaGJvYXJkX2ljb25fMTU4MjA0MjgzNV8wNzU/icon.webp?w=360&fakeurl=1&type=.webp" alt="Dashboard Logo" width="110">
 </p>
 
 > An unofficial archive of **Dashboard** by **Samabox Labs**.
