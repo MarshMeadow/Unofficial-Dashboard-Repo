@@ -163,14 +163,12 @@ Searching by the package name usually provides the most accurate results.
 
 ## ⭐ Similar Apps
 
-| Launcher            | Link                                                                      |
-| :------------------ | :------------------------------------------------------------------------ |
-| Projectivy Launcher | [GitHub](https://github.com/spocky/miproja1)                              |
-| FLauncher           | [GitHub](https://github.com/FLauncher/FLauncher)                          |
-| Dispatch Launcher   | [GitHub](https://github.com/DispatchLauncher/Dispatch)                    |
-| ATV Launcher        | [Google Play](https://play.google.com/store/search?q=ATV%20Launcher)      |
-| Sideload Launcher   | [Google Play](https://play.google.com/store/search?q=Sideload%20Launcher) |
-| Wolf Launcher       | [Installation Guide](https://troypoint.com/wolf-launcher/)                |
+- Projectivy Launcher — GitHub: [spocky/miproja1](https://github.com/spocky/miproja1) | Website: [Projectivy Launcher (Google Play)](https://play.google.com/store/apps/details?id=com.spocky.projengmenu)
+- FLauncher — GitHub: [osrosal/flauncher](https://github.com/osrosal/flauncher) | Website: [FLauncher site](https://gitlab.com/etienn01/flauncher) | Google Play: [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher)
+- Dispatch Launcher — GitHub: [DispatchLauncher/Dispatch](https://github.com/DispatchLauncher/Dispatch) | Google Play: [Dispatch](https://play.google.com/store/apps/details?id=com.spauldhaliwal.dispatch)
+- ATV Launcher — Google Play: [ATV Launcher](https://play.google.com/store/apps/details?id=ca.dstudio.atvlauncher.pro)
+- Sideload Launcher — Google Play: [Sideload Launcher](https://play.google.com/store/apps/details?id=eu.chainfire.tv.sideloadlauncher)
+- Wolf Launcher — Website: [Troypoint Wolf Launcher](https://troypoint.com/wolf-launcher/)
 
 ---
 
